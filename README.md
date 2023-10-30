@@ -23,6 +23,6 @@ The CSS file (`styles.css`) provides modern and elegant styling for the CatPhoto
 
 ## Deployed Link
 
-You can access the deployed CatPhotoApp by clicking the following link: [CatPhotoApp](https://your-catphotoapp-url.com)
+You can access the deployed CatPhotoApp by clicking the following link: [CatPhotoApp](https://hadep275.github.io/CatPhotoApp/)
 
 Feel free to customize and extend this project to create your own cat-themed web page.
