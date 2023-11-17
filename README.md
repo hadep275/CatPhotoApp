@@ -25,7 +25,6 @@ The CSS file (`styles.css`) provides modern and elegant styling for the CatPhoto
 
 You can access the deployed CatPhotoApp by clicking the following link: [CatPhotoApp](https://hadep275.github.io/CatPhotoApp/)
 
-![screencapture-localhost-5173-MortgageCalculator-2023-11-17-15_03_34](https://github.com/hadep275/CatPhotoApp/assets/65734173/88ae675a-6aa8-445d-a023-6a4de7a893ab)
-
+![screencapture-hadep275-github-io-CatPhotoApp-2023-11-17-15_08_33](https://github.com/hadep275/CatPhotoApp/assets/65734173/21ef51d3-8c59-4066-b35f-8761cda47072)
 
 Feel free to customize and extend this project to create your own cat-themed web page.
